@@ -1,0 +1,21 @@
+
+/*COLORES CONFIG -------- START*/
+.colores{
+
+
+}
+
+.lista-colores{
+	align-items: center;                    /*COLORES*/
+	display:grid;                              
+	grid-template-columns: repeat(2, auto);
+	grid-template-rows: repeat(2, auto);
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+
+
+*COLORES CONFIG -------- END*/
+/*___________________________________________________________________________________*/
