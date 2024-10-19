@@ -1,3 +1,10 @@
+Básicamente es un Paint, contiene variedad de colores y herramientas. Entre ellas estan el uso del lapiz, un borrador, y distintas formas geometricas para dibujar o implementar cualquier idea que os ocurra.
+
+Todo dentro de un canvas. 
+
+Tecnologías: React + Vite 
+Javascript, Html5, Css, uso de Canvas.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
